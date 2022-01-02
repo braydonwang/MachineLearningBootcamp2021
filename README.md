@@ -2,7 +2,7 @@
 
 ![Project Image](https://braydonwang.github.io/MLBootcamp.jpeg)
 
-> This is a list of all of my assignments that I created during phase 1 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021. Phase 2 of the Bootcamp can be found here -> [Phase2](https://github.com/braydonwang/Natural-Language-Processing-Assignments)
+> This is a list of all of my assignments that I created during phase 1 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021. Phase 2 of the Bootcamp can be found here: [Phase2](https://github.com/braydonwang/Natural-Language-Processing-Assignments)
 
 ---
 
