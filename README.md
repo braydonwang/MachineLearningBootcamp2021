@@ -31,6 +31,8 @@ To easily navigate through all of the different sections
 
 A list of all of my assignments and analyses that I developed during phase 1 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021. All were made using python on Google Colab and relied heavily on external libraries and data from the Titanic Kaggle Contest.
 
+- Week 4: Grid Search and Cross Validation Titanic Model
+
 #### Language
 
 - Python
